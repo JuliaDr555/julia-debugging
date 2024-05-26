@@ -91,7 +91,6 @@ function setup() {
   //guessInput.value = ''; // Clear the input field
 
 }
-
 submitButton.addEventListener('click', checkGuess);
 resetButton.addEventListener('click', setup);
 
